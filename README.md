@@ -1,5 +1,5 @@
 <img src="https://github.com/Sefiane-Ouami/Sefiane-Ouami/blob/main/profile-img.png" align="right" width="25%"/>
-<h1 align="center">Hi 👋, I'm OUAMI SEFIANE</h1>
+<h1 align="center">Hi 👋, I'm WISSAL ELOUAFY</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
 <p align="left"><strong>I’m currently a student engineer in computer science at National School of Applied Sciences Tetouan Morocco
 and full-stack web developer  ,I enjoy building websites using React js, React native ,Laravel and Bootsrap . I can help you to build your onw wesbite. </strong></p>
