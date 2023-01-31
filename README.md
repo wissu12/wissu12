@@ -1,4 +1,4 @@
-<img src="https://github.com/Sefiane-Ouami/Sefiane-Ouami/blob/main/profile-img.png" align="right" width="25%"/>
+<img src="[https://github.com/Sefiane-Ouami/Sefiane-Ouami/blob/main/profile-img.png](https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300)" align="right" width="25%"/>
 <h1 align="center">Hi 👋, I'm WISSAL ELOUAFY</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
 <p align="left"><strong>I’m currently a student engineer in computer science at National School of Applied Sciences Tetouan Morocco
