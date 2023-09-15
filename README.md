@@ -1,4 +1,4 @@
-<img src="https://github.com/Sefiane-Ouami/Sefiane-Ouami/blob/main/profile-img.png" align="right" width="25%"/>
+
 <h1 align="center">Hello 👋, I'm WISSAL ELOUAFY</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
 <p align="left"><strong>I'm currently a computer science engineering student at the National School of Applied Sciences in Tetouan, Morocco. I'm also a full-stack web developer with a passion for building websites using Php, Html, Css, JavaScript, Laravel, and Bootstrap. I can help you design and develop your own website.</strong></p>
