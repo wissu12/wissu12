@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm WISSAL ELOUAFY</h1>
 <h3 align="center">A Data Scientist and Full-Stack Developer from Morocco</h3>
-<p align="left"><strong>I'm currently a computer science engineering student at the National School of Applied Sciences in Tetouan, Morocco. I'm also a data scientist and full-stack web developer with a passion for analyzing data and building intelligent systems using Python, R, TensorFlow, and Scikit-Learn. I can help you leverage data to make informed decisions and develop powerful machine learning models.</strong></p>
+<p align="left"><strong>I'm currently a computer science engineering student at the National School of Applied Sciences in Tetouan, Morocco. I'm also a data scientist and full-stack web developer with a passion for analyzing data and building intelligent systems using Python, TensorFlow, and Scikit-Learn. I can help you leverage data to make informed decisions and develop powerful machine learning models.</strong></p>
 <h3 align="left">Technical Skills:</h3>
 <ul>
   <li>Data Science with Python (NumPy, Pandas, Scikit-Learn)</li>
